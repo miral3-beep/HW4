@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fa94b9ad5a97749f787a9b436f032d5c
+guid: 70b291e342ad5496684c41725359b616
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pigeon-Idle_0
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 0
-        width: 19
-        height: 17
+        x: 0
+        y: 256
+        width: 144
+        height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60d0d206201b94600a8f88ecb506f5d1
-      internalID: 560575511
+      spriteID: 13a3b1930b6324b46ae193967c5b9cf0
+      internalID: 109595844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pigeon-Idle_1
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 19
-        height: 16
+        x: 84
+        y: 28
+        width: 26
+        height: 161
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f2ccb5fa301f45109a60b5a6b52ab32
-      internalID: -830551949
+      spriteID: 0f0dd6c5be58c47f982767055c896100
+      internalID: -1532324645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pigeon-Idle_2
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 0
-        width: 19
-        height: 16
+        x: 56
+        y: 29
+        width: 26
+        height: 160
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7655b48e88af4f12b1bd59d41ea4f73
-      internalID: 2027100
+      spriteID: 10f5e523d0ba24e89b7765adfdd4663a
+      internalID: 1098122170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pigeon-Idle_3
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_3
       rect:
         serializedVersion: 2
-        x: 69
-        y: 0
-        width: 19
-        height: 15
+        x: 292
+        y: 456
+        width: 168
+        height: 56
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,176 +187,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f123d2c88cb1b418da77d48dd3df730b
-      internalID: 1282024887
+      spriteID: e35c69aa1837c4d6a9e0a408091e0d7e
+      internalID: -234327555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pigeon-Idle_4
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_4
       rect:
         serializedVersion: 2
-        x: 133
-        y: 0
-        width: 19
-        height: 17
+        x: 354
+        y: 365
+        width: 52
+        height: 29
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2532900abf57d47e7a15d66eeb211d64
-      internalID: 213725388
+      spriteID: 8cb082f27dea542cfa9c034ab515d4bf
+      internalID: -590529161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pigeon-Idle_5
+      name: Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_5
       rect:
         serializedVersion: 2
-        x: 165
-        y: 0
-        width: 19
-        height: 16
+        x: 395
+        y: 432
+        width: 96
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf96afdad7d2a4f62837d60c2eb3200c
-      internalID: 536728346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_6
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 0
-        width: 19
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33db2e5b1b1bb4798b5080629a035d6b
-      internalID: -502250889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_7
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 0
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e624697f372ee409985f47e073be2308
-      internalID: 127759295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_8
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 0
-        width: 19
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9420aba45e12748f282162c9f201ec73
-      internalID: 326076869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_9
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 0
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3773afc2fbf7a40b3a6881878c6a61af
-      internalID: -1357339097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_10
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 0
-        width: 19
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fa811d490fab409c94e637933e4754c
-      internalID: 714975510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pigeon-Idle_11
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 0
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 860b5ae9a7b9241eeb25b01238e6da40
-      internalID: -637884633
+      spriteID: 9426e3c4d6b9b4d2d895a2cc77388192
+      internalID: -1325798522
       vertices: []
       indices: 
       edges: []
@@ -372,18 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Pigeon-Idle_0: 560575511
-      Pigeon-Idle_1: -830551949
-      Pigeon-Idle_10: 714975510
-      Pigeon-Idle_11: -637884633
-      Pigeon-Idle_2: 2027100
-      Pigeon-Idle_3: 1282024887
-      Pigeon-Idle_4: 213725388
-      Pigeon-Idle_5: 536728346
-      Pigeon-Idle_6: -502250889
-      Pigeon-Idle_7: 127759295
-      Pigeon-Idle_8: 326076869
-      Pigeon-Idle_9: -1357339097
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_0: 109595844
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_1: -1532324645
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_2: 1098122170
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_3: -234327555
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_4: -590529161
+      Mobile - Flappy Bird - Miscellaneous - Version 1.2 Sprites_5: -1325798522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
